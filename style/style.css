@@ -265,8 +265,11 @@ hr{
     }
     .footer-container{
         margin-top: 220px;
-    } 
-     .footer-items{
+    }
+    hr{
+        width: 85vw;
+    }
+    .footer-items{
         width: 40rem;
         grid-template-columns: repeat(1,1fr);
         /* justify-content: center; */
