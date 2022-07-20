@@ -209,11 +209,11 @@ hr{
 @media only screen and (min-width: 768px) and (max-width:1023px) {
     .container{
         width: 95%;
-        height: 55vh;
+        height: 36rem;
     }
     .header-info {
         width: 40%;
-        height: 46.5rem;
+        height: 45rem;
         margin-left: 1rem;
         margin-top: 4rem;
         padding-right: 1rem;
@@ -225,8 +225,8 @@ hr{
         width: 60%;
     }
     .header-img img {
-        height: 75%;
-        margin-top: 9.3em;
+        height: 27rem;
+        margin-top: 9rem;
         margin-left: 0;
     }
     /* body section  */
